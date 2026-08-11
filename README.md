@@ -3,7 +3,7 @@
 ## Internship Details
 
 - **Intern ID:** CITS7454
-- **Intern Name:** Mithish Prabu
+- **Intern Name:** G.Mithish Prabu
 - **Internship Domain:** Python Programming
 - **Project Name:** Expense Tracker
 - **Internship Duration:** 8 Weeks
@@ -78,10 +78,13 @@ The application stores expense records in two formats:
 
 ## Sample Expense Records
 
-| Date | Category | Amount |
-|------|----------|--------|
-| 07-08-2026 | Food | 250.0 |
-| 09-08-2026 | Travel | 500.0 |
+| Date       | Category | Amount |
+| ---------- | -------- | ------ |
+| 07-08-2026 | Food     | 250.0  |
+| 09-08-2026 | Travel   | 500.0  |
+| 17-11-2026 | Shopping | 5000.0 |
+| 14-09-2022 | Travel   | 3500.0 |
+| 05-03-2024 | Food     | 2700.0 |
 
 ## Sample Output
 
@@ -118,4 +121,4 @@ The Expense Tracker successfully demonstrates Python programming, file handling,
 
 ## Author
 
-Mithish Prabu
+G.Mithish Prabu
